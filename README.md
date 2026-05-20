@@ -56,8 +56,13 @@ Currently focused on:
 
 <div align="center">
 
-# ⚡ GitHub Streak ⚡
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=CodeCraftsman20&theme=tokyonight&hide_border=true&border_radius=15&fire=FF6B00&ring=FFB000&currStreakLabel=00F7FF" />
+```bash
+> INITIALIZING DEVELOPER STREAK...
+> SYSTEM STATUS: ACTIVE
+```
+
+<img src="https://streak-stats.demolab.com?user=CodeCraftsman20&theme=highcontrast&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>

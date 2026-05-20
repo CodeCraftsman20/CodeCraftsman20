@@ -54,8 +54,10 @@ Currently focused on:
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=CodeCraftsman20&theme=tokyonight&hide_border=true" />
-</p>
+# ⚡ GitHub Streak ⚡
+
+<img src="https://streak-stats.demolab.com?user=CodeCraftsman20&theme=tokyonight&hide_border=true&border_radius=15&fire=FF6B00&ring=FFB000&currStreakLabel=00F7FF" />
+
+</div>

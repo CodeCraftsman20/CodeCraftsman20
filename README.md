@@ -63,6 +63,6 @@ Currently focused on:
 > SYSTEM STATUS: ACTIVE
 ```
 
-<img src="https://streak-stats.demolab.com?user=CodeCraftsman20&theme=highcontrast&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeCraftsman20&theme=transparent&hide_border=true&border_radius=20&ring=7C3AED&fire=F97316&currStreakLabel=38BDF8&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub Streak" />
+</p>

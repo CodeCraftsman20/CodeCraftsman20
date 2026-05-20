@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Macklin Adenine</h1>
+<h3 align="center">Full Stack MERN Developer from Bangladesh 🇧🇩</h3>
 
-<!--
-**CodeCraftsman20/CodeCraftsman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/CodeCraftsman20">
+    <img src="https://komarev.com/ghpvc/?username=CodeCraftsman20&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate self-taught developer who started the coding journey several years ago with curiosity and creativity. Over time, I’ve built strong experience in modern web development, especially in the MERN stack ecosystem.
+
+I enjoy building scalable, user-friendly, and visually appealing applications that solve real-world problems. My development journey includes working with React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind CSS, TypeScript, REST APIs, authentication systems, dashboards, and deployment workflows.
+
+I love exploring new technologies, improving UI/UX experiences, optimizing performance, and transforming ideas into impactful digital products. Coding for me is not just work — it’s a continuous learning process and a creative passion.
+
+Currently focused on:
+- Modern Full Stack Development
+- AI-powered Web Applications
+- Advanced React & Next.js
+- Clean UI/UX Design
+- Scalable Backend Architecture
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/CodeCraftsman20" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeCraftsman20/CodeCraftsman20/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=CodeCraftsman20&theme=tokyonight&hide_border=true" />
+</p>
